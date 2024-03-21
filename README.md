@@ -4,7 +4,7 @@ NotDonaldTrump Chatbot
 
 Overview
 
-"NotDonaldTrump Chatbot" is a Python application that simulates a chatbot conversation, imitating a humorous version of former President Donald Trump. It utilizes the OpenAI API to generate responses based on user input, aiming to mimic the distinctive style associated with Donald Trump's speech patterns.
+"(Not) Donald Trump the Chatbot" is a Python application that simulates a chatbot conversation, imitating former President Donald Trump. It utilizes the OpenAI API to generate responses based on user input, aiming to mimic the distinctive style associated with Donald Trump's speech patterns.
 
 Features
 
